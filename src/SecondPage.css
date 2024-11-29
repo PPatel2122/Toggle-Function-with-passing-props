@@ -1,0 +1,8 @@
+.lists{
+    width: 400px;
+    height: 30px;
+    background-color: palegreen;
+}
+.list{
+    gap: 20px;
+}
